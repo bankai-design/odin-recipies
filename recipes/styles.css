@@ -11,3 +11,7 @@
     background: pink;
     border: 2px solid black;
 }
+
+li {
+    font-size: 25px;
+}
