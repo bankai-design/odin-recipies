@@ -1,1 +1,1 @@
-# odin-recipies
+# This is a recipe project, where the user is given a main webpage and then is asked to click a link to direct them to a recipe of a food
